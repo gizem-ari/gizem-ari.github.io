@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "isim": "Araba Tasarımı",
+    "aciklama": "Modern ve sade çizgilerle oluşturulmuş marka kimliği çalışması.",
+    "renk": ["red"],
+    "resim": "images/car.jpg"
+  },
+  {
+    "id": 2,
+    "isim": "Köpekbalığı Figürü",
+    "aciklama": "Küçük oyuncak köpekbalığı",
+    "renk": ["#2ecc71"],
+    "resim": "images/shark.jpg"
+  },
+  {
+    "id": 3,
+    "isim": "Wolsvagen Araç Logosu ",
+    "aciklama": "Siyah ve beyazın enerjisini yansıtan, wolsvagen araç logo tasarımı.",
+    "renk": ["black","white"],
+    "resim": "images/wolsvagen_logo.jpg"
+ },
+  {
+    "id": 4,
+    "isim": "Stethoscope Tasarımı",
+    "aciklama": "Sağlık ve veteriner sektörüne yönelik, modern ve kullanıcı dostu bir stetoskop tasarımı.",
+    "renk": ["#2ecc71"],
+    "resim": "images/stethoscope.jpg"
+},
+  {
+    "id": 5,
+    "isim": "Araç Logo Stand Tasarımı",
+    "aciklama": "5 farklı model araç logoları bulunan stand tasarımı.",
+    "renk": ["black", "white"],
+    "resim": "images/car_logos.jpg"
+ },
+   {
+    "id": 6,
+    "isim": "BMW Araç Logosu ",
+    "aciklama": "Siyah, beyaz ve mavinin enerjisini yansıtan, BMW araç logo tasarımı.",
+    "renk": ["black", "white", "blue"],
+    "resim": "images/BMW_logo.jpg"
+ }
+
+]
